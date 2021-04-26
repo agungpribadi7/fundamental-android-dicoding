@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Submission3</string>
+    <string name="favorite">Favorite</string>
+    <string name="notification">Notification</string>
+    <string name="language">Language</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Enter Username</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="unsubscribe">Removed from favorites</string>
+    <string name="subscribe">Added to Favorites</string>
+
+    <string name="reminder_setting">Reminder Setting</string>
+    <string name="daily_message">Seek interesting users on Github!</string>
+    <string name="daily_reminder">Daily Remainder every 09.00 AM</string>
+    <string name="masukkan_kata_kunci_pencarian_terlebih_dahulu">Enter search keywords first!</string>
+    <string name="not_found">Username not found!</string>
+    <string name="enabled_reminder">Daily Notification Enabled</string>
+    <string name="disabled_reminder">Daily Notification Disabled</string>
+
+</resources>

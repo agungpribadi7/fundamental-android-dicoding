@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Submission3</string>
+    <string name="favorite">Favorit</string>
+    <string name="notification">Pemberitahuan</string>
+    <string name="language">Bahasa</string>
+    <string name="search">Cari</string>
+    <string name="search_hint">Masukkan Username</string>
+    <string name="follower">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="unsubscribe">Dihapus dari Favorit</string>
+    <string name="subscribe">Ditambahkan ke Favorit</string>
+
+    <string name="reminder_setting">Pengaturan Pengingat</string>
+    <string name="daily_message">Cari orang menarik lainnya di Github!</string>
+    <string name="masukkan_kata_kunci_pencarian_terlebih_dahulu">Masukkan kata kunci pencarian terlebih dahulu!</string>
+    <string name="daily_reminder">Pengingat setiap hari pukul 09.00 pagi</string>
+    <string name="not_found">Username tidak ditemukan!</string>
+    <string name="enabled_reminder">Pengingat telah diaktifkan</string>
+    <string name="disabled_reminder">Pengingat telah dimatikan</string>
+</resources>

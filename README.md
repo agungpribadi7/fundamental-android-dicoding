@@ -1,6 +1,5 @@
 # fundamental-android-dicoding
-Submission (3 / 3) Pemanfaatan github  API dan fitur-fitur android lainnya, seperti notification, preferences, dan alarm. Video pengoperasiannya dapat dilihat pada link berikut: https://youtu.be/-H-z7H1xxUM
-Setelah menyelesaikan submission, dicoding.com akan memberikan sertifikat https://www.dicoding.com/certificates/98XW6Y3JLXM3
+Submission (3 / 3) Pemanfaatan github  API dan fitur-fitur android lainnya, seperti notification, preferences, dan alarm.
 
 Selengkapnya:
 
